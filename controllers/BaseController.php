@@ -6,7 +6,7 @@
  * Time: 11:27
  */
 
-namespace yhq\controllers;
+namespace yhuaqiang\controllers;
 
 
 class BaseController

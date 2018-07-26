@@ -1,5 +1,5 @@
 {
-  "name": "yhq/yii2-xlib",
+  "name": "yhuaqiang/yii2-xlib",
   "type": "yii2-extension",
   "description": "The useful lib for the Yii framework",
   "keywords": [
@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yhq\\": ""
+      "yhuaqiang\\": ""
     }
   }
 }
