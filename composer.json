@@ -1,0 +1,36 @@
+{
+  // package name
+  "name": "yhq/yii2-xlib",
+  // package type
+  "type": "yii2-extension",
+  "description": "The useful lib for the Yii framework",
+  "keywords": [
+    "yii2",
+    "lib",
+    "helper"
+  ],
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/yiisoft/yii2/issues?labels=ext%3Aimagine",
+    "forum": "http://www.yiiframework.com/forum/",
+    "wiki": "http://www.yiiframework.com/wiki/",
+    "irc": "irc://irc.freenode.net/yii",
+    "source": "https://github.com/yiisoft/yii2"
+  },
+  "authors": [
+    {
+      "name": "yhuaqiang",
+      "email": "yhuaqiang@163.com"
+    }
+  ],
+  // package dependencies
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+  },
+  // class autoloading specs
+  "autoload": {
+    "psr-4": {
+      "yhq\\": ""
+    }
+  }
+}
