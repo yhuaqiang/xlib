@@ -1,7 +1,5 @@
 {
-  // package name
   "name": "yhq/yii2-xlib",
-  // package type
   "type": "yii2-extension",
   "description": "The useful lib for the Yii framework",
   "keywords": [
@@ -23,11 +21,9 @@
       "email": "yhuaqiang@163.com"
     }
   ],
-  // package dependencies
   "require": {
-    "yiisoft/yii2": "~2.0.0",
+    "yiisoft/yii2": "~2.0.0"
   },
-  // class autoloading specs
   "autoload": {
     "psr-4": {
       "yhq\\": ""
