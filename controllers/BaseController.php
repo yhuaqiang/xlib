@@ -6,10 +6,12 @@
  * Time: 11:27
  */
 
-namespace yhuaqiang\controllers;
+namespace yhuaqiang\xlib\controllers;
 
 
-class BaseController
+use yii\web\Controller;
+
+class BaseController extends Controller
 {
     public function __construct()
     {
